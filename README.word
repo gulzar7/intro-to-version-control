@@ -1,0 +1,52 @@
+1. Git Setup
+sudo apt-get install git
+2. Initialize a Git Repository
+
+
+3.Add files to the repository
+
+
+
+
+
+
+
+4.Unstage 1 file
+
+
+5.Commit the file
+
+
+
+
+
+
+
+
+6.Add a remote
+
+
+7.Undo changes to a particular file
+
+
+8.Push changes to Github
+
+
+9.Clone the repository
+
+10.Add changes to one of the copies and pull the changes in the other.
+
+
+11. Check differences between a file and its staged version
+
+12. Ignore a few files to be checked in
+
+
+13. Create a new branch.
+
+
+14.Diverge them with commits.
+
+15. Edit the same file at the same line on both branches and commitgi
+
+17. Stash the changes and pop them
